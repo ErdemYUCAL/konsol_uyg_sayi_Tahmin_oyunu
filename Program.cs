@@ -29,7 +29,7 @@ namespace konsol_uyg_sayi_Tahmin_oyunu
                 }
                 else if (prediction > memory)
                 {
-                    Console.WriteLine("daha küçük");
+                    Console.WriteLine("daha küçük!");
                 }
             }
             while (prediction != memory);
